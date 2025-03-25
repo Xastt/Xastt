@@ -3,7 +3,6 @@
   <h1>Hi there, I'm <a href="https://github.com/Xastt" target="_blank">Artyom</a>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <h3>I'm backend developer from Russia 🇷🇺</h3>
-  ![Header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RzYndtazdseWw1NnZ5cGhyNGdjYXl1dDkyNjE1a240dWtrNjBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 </div>
 
@@ -34,17 +33,27 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!--
-**Xastt/Xastt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📲 My Projects :
 
-Here are some ideas to get you started:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xastt&repo=SkillSwap)](https://github.com/Xastt/SkillSwap)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xastt&repo=RestApiSensor)](https://github.com/Xastt/RestApiSensor)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xastt&repo=FinalLibraryApp)](https://github.com/Xastt/FinalLibraryApp)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xastt&repo=JavaSberSchool)](https://github.com/Xastt/JavaSberSchool)
+
+## 📈 My Stats :
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Xastt&theme=dark&background=000000)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xastt&theme=vision-friendly-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xastt&layout=compact&theme=vision-friendly-dark)
+
+![Profile views](https://komarev.com/ghpvc/?username=Xastt)
+
+## 📞 My Contacts :
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/mamin_biker)
+[![Vkontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/mamin.biker)
