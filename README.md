@@ -1,8 +1,10 @@
 <div align="center">
-  
-  <h1>Hi there, I'm <a href="https://github.com/Xastt" target="_blank">Artyom</a>
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-  <h3>I'm backend developer from Russia 🇷🇺</h3>
+
+# 👋 Hi, my name is Artyom
+
+### I'm a Backend Developer from Russia 🇷🇺
+
+![Header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RzYndtazdseWw1NnZ5cGhyNGdjYXl1dDkyNjE1a240dWtrNjBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 </div>
 
